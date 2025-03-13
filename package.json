@@ -1,0 +1,15 @@
+{
+  "name": "sycx_reset_password",
+  "version": "1.0.0",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
